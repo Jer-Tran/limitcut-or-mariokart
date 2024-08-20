@@ -5,6 +5,7 @@ var _isLimitCut = false
 
 function NextMech() {
     _next.style.display = "none"
+    _image.src = "./placeholder.png"
     const index = Math.floor(Math.random() * _mechs.length)
     SetMech(_mechs[index])
 }
