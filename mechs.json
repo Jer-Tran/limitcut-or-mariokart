@@ -12,5 +12,68 @@
         "img": "https://img.upanh.tv/2024/08/18/file.png",
         "limitcut": false,
         "remark": ""
+    },
+    {
+        "name": "Alarm Pheremones 2",
+        "desc": "Bee Square",
+        "img": "https://img.game8.co/3946273/2634526ba96160a72f9acca7605d0575.png/show",
+        "limitcut": true,
+        "remark": ""
+    },
+    {
+        "name": "Honey B Live: Beat 2",
+        "desc": "Please stop dropping puddles on the towers",
+        "img": "https://img.game8.co/3946176/c5f410e1822b14875907cfaf453892a4.png/show",
+        "limitcut": true,
+        "remark": ""
+    },
+    {
+        "name": "Honey B Live: Beat 1",
+        "desc": "Someone please take the tower",
+        "img": "https://i.redd.it/yj4s37349fjd1.png",
+        "limitcut": true,
+        "remark": ""
+    },
+    {
+        "name": "Mousser",
+        "desc": "Let claw rend aaaaaaaaaaalllllllllll",
+        "img": "https://i.ytimg.com/vi/wFEI8IFUkLI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGMgUyhlMA8=&rs=AOn4CLDmAQqQKHGHBI9eOfzLlN3yuMBxOQ",
+        "limitcut": false,
+        "remark": ""
+    },
+    {
+        "name": "Nailchipper",
+        "desc": "I forgot, was it boss relative or true north?",
+        "img": "https://img.game8.co/3945082/8a9deb8b2af72b31802f92efaa437bbc.png/show",
+        "limitcut": true,
+        "remark": ""
+    },
+    {
+        "name": "Raining Cats",
+        "desc": "Thanks for healer LB",
+        "img": "https://img.game8.co/3945164/9accbc2db60af9d786f244127d1765b7.png/show",
+        "limitcut": true,
+        "remark": ""
+    },
+    {
+        "name": "Fusefield",
+        "desc": "Wait for the heals",
+        "img": "https://www.pcinvasion.com/wp-content/uploads/2024/08/Final-Fantasy-XIV-M3S-Fusefield.jpg",
+        "limitcut": true,
+        "remark": ""
+    },
+    {
+        "name": "Fuse or Foe",
+        "desc": "Oops accidentally clipped both healers",
+        "img": "https://www.pcinvasion.com/wp-content/uploads/2024/08/Final-Fantasy-XIV-M3S-Fuse-or-Foe.jpg",
+        "limitcut": true,
+        "remark": ""
+    },
+    {
+        "name": "Bombarian Special",
+        "desc": "FROM THE TOP ROPE",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBLlv8EJnAGioNPvtJpdbM-fMbV48dhq7cg&s",
+        "limitcut": true,
+        "remark": ""
     }
 ]
