@@ -10,6 +10,12 @@ function NextMech() {
     SetMech(_mechs[index])
 }
 
+function GetMech(index) {
+    _next.style.display = "none"
+    _image.src = "./placeholder.png"
+    SetMech(_mechs[index])
+}
+
 function SetMech(mech) {
     console.log(mech)
     _name.innerText = mech.name
@@ -67,7 +73,7 @@ function GetMechs() {
 
         document.getElementById("limitcut").onclick = PressLimitCut
         document.getElementById("mariokart").onclick = PressMarioKart
-        _next.onclick = NextMech
+        _next.onclick = function() { NextMech(); document.getElementById("question").style.display = "none"; }
 
         NextMech()
     }
